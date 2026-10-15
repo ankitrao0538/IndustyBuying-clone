@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # soft-dogs-2567
 
 # IndustryBuying Clone
@@ -184,3 +185,7 @@ Here in admin dashboard we can view all the data present in the database, we can
 # Deploy Link 
 
     Backend Deploy Link = https://exuberant-slippers-slug.cyclic.app/  
+=======
+# IndustyBuying-clone
+Full stack project
+>>>>>>> 6e85a84039b5d1ca1438bc01337c45a41cf42394
